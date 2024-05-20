@@ -159,4 +159,4 @@ The dataset used for this analysis contains the following columns:
 
 This comprehensive analysis provides valuable insights into global weather patterns and their various aspects such as temperature trends, geographical distribution, air quality, and more. The visualizations created help in better understanding and interpreting the data, making it easier to derive actionable insights for environmental monitoring and planning.
 
----
+
